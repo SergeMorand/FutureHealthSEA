@@ -10,3 +10,5 @@ various decision levels (regional to local); c) analyze retrospectively and comp
 associated to policies, land use and biodiversity changes; d) combine predictive process-based scenarios and
 policy-driven story-telling scenarios of health incorporating disease ecology, biodiversity erosion, future land
 use and climate changes.
+
+http://www.agence-nationale-recherche.fr/Project-ANR-17-CE35-0003
