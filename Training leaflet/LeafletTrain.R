@@ -54,6 +54,6 @@ m <- leaflet(ban) %>%
 library(htmlwidgets)
 library(webshot)
 
-## save to a html file to be open with you browser
+## save to a html file, to open with you browser
 saveWidget(m, "Saenthong.html", selfcontained = FALSE)
 
