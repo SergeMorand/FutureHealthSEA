@@ -1,1 +1,12 @@
-A simple introduction to leaflet
+A simple example how to use leaflet
+
+You can find nice nice introduction / tutorial at:
+https://leafletjs.com/index.html
+https://rstudio.github.io/leaflet/
+https://allthisblog.wordpress.com/2016/10/12/r-311-with-leaflet-tutorial/
+among many others
+
+for our example here, you need to get the csv file "SaenThong_8villages.csv" and the shapefile "SaenThong-rgdal" from training kml file
+
+you can also save your map as a html file, that can be opened with you browser
+
