@@ -1,6 +1,0 @@
-
-In this folder
-a R script example how to write kml file (kmlR.R)(spatialpoints or shapefile) with some example datasets (locations, rodents, shapefile)
-
-a R script (CoordinatesDegreeToDecimal.R) to transform the degree to decimal with an example file (see attached example.csv)
-(id, lat, lon in degree)
