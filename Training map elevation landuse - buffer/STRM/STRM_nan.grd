@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2018-08-13 09:56:25
+[georeference]
+nrows=1945
+ncols=1225
+xmin=100.336250241644
+ymin=18.0137503384658
+xmax=101.35708357491
+ymax=19.6345836716911
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=INT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=145
+maxvalue=2072
+nodatavalue=-2147483647
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=srtm_57_09
