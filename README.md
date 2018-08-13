@@ -12,3 +12,10 @@ policy-driven story-telling scenarios of health incorporating disease ecology, b
 use and climate changes.
 
 http://www.agence-nationale-recherche.fr/Project-ANR-17-CE35-0003
+
+Here are some R script and resources used in mapping and analyses spatial data gathered in the project:
+
+- producing kml files
+- getting coordinates from geotaged pictures
+- producing leaflet maps
+- maping elevation, land use and extracting buffers around spatial points
