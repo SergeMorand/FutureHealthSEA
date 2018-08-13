@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2018-07-05 13:59:49
+[georeference]
+nrows=585
+ncols=366
+xmin=100.340277777667
+ymin=18.0069444445555
+xmax=101.356944444333
+ymax=19.6319444445555
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=11
+maxvalue=210
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=GLOBCOVER_L4_200901_200912_V2.3
